@@ -10,8 +10,14 @@ int main (){
 
     if (numeroingresado==1)
     {
-        
+        printf ("La suma del numero: 1 es\n");
     }
+
+    else if (numeroingresado>=2)
+    {
+        SumaG=(numeroingresado*(numeroingresado+1));
+    }
+
     
 
     return 0;
