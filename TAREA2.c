@@ -17,7 +17,8 @@ int main (){
     {
         SumaG=(numeroingresado*(numeroingresado+1));
     }
-
+ 
+        printf ("La suma del numero %d es: %d",numeroingresado,SumaG);
     
 
     return 0;
